@@ -25,7 +25,7 @@ Features were identified as mean and standard deviation estimates if their label
 ###File - tidy_data.txt
 
 | Variable    | Position | Description | Type | Values |
-|:------------|:--------:|:------------|:----:|:------:|
+|:------------|:--------:|:------------|:-----|:-------|
 | subject_id  | 1 | Uniquely identifies each individual | Integer | 1 - 30 |
 | activity    | 2 | Physical activity performed | Categorical | WALKING <br /> WALKING UPSTAIRS <br /> WALKING DOWNSTAIRS <br /> SITTING <br /> STANDING |
 | tBodyAcc\_mean_X | 3 | Body linear acceleration mean, x-axis. | Numeric | [-1,1] |
@@ -102,7 +102,7 @@ Features were identified as mean and standard deviation estimates if their label
 ###File - tidy_mean.txt
 
 | Variable    | Position | Description | Type | Values |
-|:------------|:--------:|:------------|:----:|:------:|
+|:------------|:--------:|:------------|:-----|:-------|
 | subject_id  | 1 | Uniquely identifies each individual | Integer | 1 - 30 |
 | activity    | 2 | Physical activity performed | Categorical | WALKING <br /> WALKING UPSTAIRS <br /> WALKING DOWNSTAIRS <br /> SITTING <br /> STANDING |
 | variable | 3 | Feature label | Character | Column names 3 - 72 from the file `tidy_data.txt` |
