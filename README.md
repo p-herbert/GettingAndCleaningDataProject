@@ -44,7 +44,7 @@ The script requires the following input files:
 The final output of the script is the following files:
 
 1. `tidy_data.txt` - A data set that combines and standardizes the input data sets.
-2. `tidy_mean.txt` - Mean of the features in the `tidy_data` by *subject_id* and *activity*.
+2. `tidy_mean.txt` - The calculated mean by *subject_id* and *activity* for the features listed in the data set `tidy_data`.
 
 --
 
