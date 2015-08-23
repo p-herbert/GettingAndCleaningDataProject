@@ -99,7 +99,7 @@ Features were identified as mean and standard deviation estimates if their label
 | fBodyAccMag\_std | 71 | FFT - body linear acceleration magnitude standard deviation. | Numeric | [-1,1] |
 | fBodyAccMag\_meanFreq | 72 | FFT - body linear acceleration magnitude mean frequency. | Numeric | [-1,1] |
 
-###File - mean_tidy.txt
+###File - tidy_mean.txt
 
 | Variable    | Position | Description | Type | Values |
 |:------------|:--------:|:------------|:----:|:------:|
