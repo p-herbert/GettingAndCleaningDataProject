@@ -1,6 +1,4 @@
-#Getting and Cleaning Data Project
-
-#Study Design
+##Study Design
 
 Human Activity Recognition Using Smartphones Dataset <br />
 Version 1.0
@@ -18,9 +16,7 @@ Via Opera Pia 11A, I-16145, Genoa, Italy. <br />
 activityrecognition@smartlab.ws <br /> 
 www.smartlab.ws
 
---
-
-#Codebook
+##Codebook
 
 ###Selection Criteria
 
