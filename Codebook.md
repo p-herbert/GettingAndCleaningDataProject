@@ -106,4 +106,4 @@ Features were identified as mean and standard deviation estimates if their label
 | subject_id  | 1 | Uniquely identifies each individual | Integer | 1 - 30 |
 | activity    | 2 | Physical activity performed | Categorical | WALKING <br /> WALKING UPSTAIRS <br /> WALKING DOWNSTAIRS <br /> SITTING <br /> STANDING |
 | variable | 3 | Feature label | Character | Column names 3 - 72 from the file `tidy_data.txt` |
-| value | 4 | Mean by subject_id and activity | Numeric | [-1,1] |
+| value | 4 | Calculated mean by subject_id and activity | Numeric | [-1,1] |
