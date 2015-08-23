@@ -2,8 +2,6 @@
 
 This document describes in detail the assumptions, dependencies, input and output data files, and process for the script `run_analysis.R`. 
 
---
-
 ###Assumptions
 
 Features were identified as mean and standard deviation estimates if their label in the file `features.txt` contained the literal string *mean* or *std*, respectively. In addition, feature labels that started with *fBodyBody* were assumed to be erroneous and removed from the data.
@@ -41,7 +39,7 @@ The script requires the following input files:
 
 ###Output Data Files
 
-The final output of the script is the following files:
+The script outputs the following files:
 
 1. `tidy_data.txt` - A data set that combines and standardizes the input data sets.
 2. `tidy_mean.txt` - The calculated mean by *subject_id* and *activity* for the features listed in the data set `tidy_data`.
