@@ -1,5 +1,4 @@
 #Getting and Cleaning Data Project
---
 
 #Study Design
 
